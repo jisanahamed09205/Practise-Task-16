@@ -1,0 +1,11 @@
+var math = 75;
+var math2nd = 99;
+var biology = 25;
+var bio2nd = 45;
+var chemistry = 65;
+var chemistry2nd = 50;
+var physics = 80;
+var bangla = 35;
+var totalMarks = math + math2nd + biology + bio2nd + chemistry + chemistry2nd + physics + bangla;
+var avgMarks = totalMarks / 8;
+console.log(avgMarks);
